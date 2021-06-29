@@ -1,4 +1,4 @@
-const Chat = require('./models/Chat');
+const Chat = require('chat/src/models/Chat.js');
 
 module.exports = io => {
 
