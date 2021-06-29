@@ -1,4 +1,4 @@
-const app = require('/src/app.js');
+const app = require('chat/src/app.js');
 const http = require('http');
 const socketio = require('socket.io');
 
